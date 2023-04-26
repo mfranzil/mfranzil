@@ -3,8 +3,8 @@
 I'm Matteo Franzil, from Sassari, Italy and based in Trento, Italy.
 
 At the moment, I am:
-- working as Assistant Researcher for Fondazione Bruno Kessler, within the Robust and Secure Distributed Computing unit (RiSING), Center for Cybersecurity. I perform research on network protocols and algorithms, cloud computing, and distributed systems;
-- working as Teaching Assistant for the University of Trento, with guest teaching duties (Probability, Fog and Cloud Computing courses) and exam preparation and management (Probability course) 
+- working as Assistant Researcher for [Fondazione Bruno Kessler](https://www.fbk.eu/), within the Robust and Secure Distributed Computing unit (RiSING), Center for Cybersecurity. I perform research on network protocols and algorithms, cloud computing, and distributed systems;
+- working as Teaching Assistant for the [University of Trento](https://www.disi.unitn.it/), with guest teaching duties (Probability, Fog and Cloud Computing courses) and exam preparation and management (Probability course) 
 
 Feel free to tinker with my repositories, fork them or make pull requests.
 
@@ -12,12 +12,13 @@ I have a work portfolio at [matteo.franzil.com](https://matteo.franzil.com/) and
 
 - [Keybase](https://keybase.io/mfranzil)
 - [LinkedIn](https://www.linkedin.com/in/matteo-franzil-20823414b/)
-- [Steam](https://steamcommunity.com/id/qwilava).
+- [Steam](https://steamcommunity.com/id/qwilava)
 
 ![Matteo Franzil's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfranzil&show_icons=true&theme=dark)
 
 ## Organizations
 
-- [mfranzil-unitn](https://github.com/mfranzil-unitn/) - Repository containing study material for courses I took at the [University of Trento](https://www.disi.unitn.it/).
+- [unitn-drive](https://github.com/unitn-drive) - Shared organization containing handy tools for the University of Trento.
+- [mfranzil-unitn](https://github.com/mfranzil-unitn) - Organization containing study material for past and present courses. 
 - [mfranzil-experiments](https://github.com/mfranzil-experiments) - Organization in which I stove dropped projects.
 - [innovation-team-nest](https://github.com/InnovationTeamNest) - Organization containing projects made for my University student residence.
