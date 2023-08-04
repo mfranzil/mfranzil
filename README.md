@@ -3,7 +3,7 @@
 I'm Matteo Franzil, from Sassari, Italy and based in Trento, Italy.
 
 At the moment, I am:
-- working as Assistant Researcher for [Fondazione Bruno Kessler](https://www.fbk.eu/), within the Robust and Secure Distributed Computing unit (RiSING), Center for Cybersecurity. I perform research on network protocols and algorithms, cloud computing, and distributed systems;
+- working as Assistant Researcher for [Fondazione Bruno Kessler](https://www.fbk.eu/), within the [Robust and Secure Distributed Computing](https://rising.fbk.eu) unit (RiSING), Center for Cybersecurity. I perform research on network protocols and algorithms, cloud computing, and distributed systems;
 - working as Teaching Assistant for the [University of Trento](https://www.disi.unitn.it/), with guest teaching duties (Probability, Fog and Cloud Computing courses) and exam preparation and management (Probability course) 
 
 Feel free to tinker with my repositories, fork them or make pull requests.
@@ -18,6 +18,7 @@ I have a work portfolio at [matteo.franzil.com](https://matteo.franzil.com/) and
 
 ## Organizations
 
+- [risingfbk](https://github.com/risingfbk) - Organization of the research unit in which I work.
 - [unitn-drive](https://github.com/unitn-drive) - Shared organization containing handy tools for the University of Trento.
 - [mfranzil-unitn](https://github.com/mfranzil-unitn) - Organization containing study material for past and present courses. 
 - [mfranzil-experiments](https://github.com/mfranzil-experiments) - Organization in which I stove dropped projects.
