@@ -2,7 +2,7 @@
 
 I'm Matteo Franzil, from Sassari, Italy and based in Trento, Italy.
 
-At the moment, I am working as a Researcher for [Fondazione Bruno Kessler](https://www.fbk.eu/), within the [Robust and Secure Distributed Computing](https://rising.fbk.eu) unit (RiSING), Center for Cybersecurity. I perform research on containerization, cloud computing, distributed systems, network protocols and algorithms.
+I am a PhD student at the [University of Trento](https://www.disi.unitn.it/), with a grant sponsored by [Fondazione Bruno Kessler](https://www.fbk.eu/) ([RiSING](https://rising.fbk.eu) unit, Center for Cybersecurity). I perform research on containerization, cloud computing, distributed systems, network protocols and algorithms.
 
 In the past, I received my Bachelor's and Master's Degrees in Computer Science from the [University of Trento](https://www.disi.unitn.it/). There, I additionally had teaching assistantship duties for the Probability (A.Y. 2022-2023) and Programming 1 (A.Y. 2023-2024) courses. I also have been a guest lecturer for the Fog and Cloud Computing course.
 
