@@ -2,7 +2,7 @@
 
 I'm Matteo Franzil, from Sassari, Italy and based in Trento, Italy.
 
-I am a PhD student at the [University of Trento](https://www.disi.unitn.it/), with a grant sponsored by [Fondazione Bruno Kessler](https://www.fbk.eu/) ([RiSING](https://rising.fbk.eu) unit, Center for Cybersecurity). I perform research on containerization, cloud computing, distributed systems, network protocols and algorithms.
+I am a PhD student at the [University of Trento](https://www.disi.unitn.it/), with a grant sponsored by [Fondazione Bruno Kessler](https://www.fbk.eu/) ([DAISY](https://daisy.fbk.eu) unit, Center for Cybersecurity). I perform research on containerization, cloud computing, distributed systems, network protocols and algorithms.
 
 In the past, I received my Bachelor's and Master's Degrees in Computer Science from the [University of Trento](https://www.disi.unitn.it/). There, I additionally had teaching assistantship duties for the Probability (A.Y. 2022-2023) and Programming 1 (A.Y. 2023-2024) courses. I also have been a guest lecturer for the Fog and Cloud Computing course.
 
@@ -12,7 +12,7 @@ I have a work portfolio at [matteo.franzil.com](https://matteo.franzil.com/) and
 
 ## Organizations
 
-- [risingfbk](https://github.com/risingfbk) - Organization of the research unit in which I work.
+- [daisyfbk](https://github.com/daisyfbk) - Organization of the research unit in which I work.
 - [fluidos-project](https://github.com/fluidos-project) - Organization of the Horizon2020-funded FLUIDOS project ([cordis website](https://cordis.europa.eu/project/id/101070473))
 - [unitn-drive](https://github.com/unitn-drive) - Shared organization containing handy tools for the University of Trento.
 
