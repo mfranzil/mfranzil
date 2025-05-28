@@ -4,7 +4,7 @@ I'm Matteo Franzil, from Sassari, Italy and based in Trento, Italy.
 
 I am a PhD student at the [University of Trento](https://www.disi.unitn.it/), with a grant sponsored by [Fondazione Bruno Kessler](https://www.fbk.eu/) ([DAISY](https://daisy.fbk.eu) unit, Center for Cybersecurity). I perform research on containerization, cloud computing, distributed systems, network protocols and algorithms.
 
-In the past, I received my Bachelor's and Master's Degrees in Computer Science from the [University of Trento](https://www.disi.unitn.it/). There, I additionally had teaching assistantship duties for the Probability (A.Y. 2022-2023) and Programming 1 (A.Y. 2023-2024) courses. I also have been a guest lecturer for the Fog and Cloud Computing course.
+As of A.Y. 2024-2025, I have teaching duties at the University of Trento for the following courses: Databases, Operating Systems, and Fog and Cloud Computing. If you are looking for my teaching material, you can find it in the [mfranzil-unitn](https://github.com/mfranzil-unitn) organization. The Operating Systems code is [here](https://github.com/mfranzil-unitn/os-lab-2025). The Fog and Cloud Computing code is [here](https://github.com/mfranzil-unitn/fcc-lab-2025).
 
 Feel free to tinker with my repositories, fork them or make pull requests.
 
@@ -13,12 +13,12 @@ I have a work portfolio at [matteo.franzil.com](https://matteo.franzil.com/) and
 ## Organizations
 
 - [daisyfbk](https://github.com/daisyfbk) - Organization of the research unit in which I work.
-- [fluidos-project](https://github.com/fluidos-project) - Organization of the Horizon2020-funded FLUIDOS project ([cordis website](https://cordis.europa.eu/project/id/101070473))
-- [unitn-drive](https://github.com/unitn-drive) - Shared organization containing handy tools for the University of Trento.
+- [mfranzil-unitn](https://github.com/mfranzil-unitn) - Organization containing study and teaching material I created for the University of Trento.
 
 ### Archive
 
-- [mfranzil-unitn](https://github.com/mfranzil-unitn) - Organization containing study material I created for my Bachelor's and Master's Degree studies in UniTN.
+- [fluidos-project](https://github.com/fluidos-project) - Organization of the Horizon2020-funded FLUIDOS project ([cordis website](https://cordis.europa.eu/project/id/101070473))
+- [unitn-drive](https://github.com/unitn-drive) - Shared organization containing handy tools for the University of Trento.
 - [mfranzil-experiments](https://github.com/mfranzil-experiments) - Organization in which I shove dropped or old projects.
 - [innovation-team-nest](https://github.com/InnovationTeamNest) - Organization containing projects made for my old University student residence.
 
