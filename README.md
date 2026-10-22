@@ -4,7 +4,7 @@ I'm Matteo Franzil, from Sassari, Italy and based in Trento, Italy.
 
 I am a PhD student at the [University of Trento](https://www.disi.unitn.it/), with a grant sponsored by [Fondazione Bruno Kessler](https://www.fbk.eu/) ([DAISY](https://daisy.fbk.eu) unit, Center for Cybersecurity). I perform research on containerization, cloud computing, distributed systems, network protocols and algorithms.
 
-As of A.Y. 2026-2027, I have teaching duties at the University of Trento for the Operating Systems and Cloud Computing Technologies (previously known as Fog and Cloud Computing). If you are looking for my teaching material, you can find it in the [rising-unitn](https://github.com/rising-unitn) organization:
+As of A.Y. 2026-2027, I have teaching duties at the University of Trento for the Operating Systems and Cloud Computing Technologies courses (previously known as Fog and Cloud Computing). If you are looking for my teaching material, you can find it in the [rising-unitn](https://github.com/rising-unitn) organization:
 
 - The Operating Systems repository for last year is [here](https://github.com/rising-unitn/os-lab-2026).
 - The Fog and Cloud Computing repository for last year is [here](https://github.com/rising-unitn/fcc-lab-2026).
